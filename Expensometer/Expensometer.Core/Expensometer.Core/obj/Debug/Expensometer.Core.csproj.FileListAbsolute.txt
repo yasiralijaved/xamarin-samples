@@ -1,0 +1,10 @@
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Expensometer.Core.dll
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Expensometer.Core.pdb
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\obj\Debug\Expensometer.Core.csprojResolveAssemblyReference.cache
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\obj\Debug\MainPage.xaml.g.cs
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\obj\Debug\Expensometer.Core.dll
+C:\Users\yasir.ali\Documents\Visual Studio 2012\Projects\Expensometer\Expensometer.Core\Expensometer.Core\obj\Debug\Expensometer.Core.pdb
