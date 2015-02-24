@@ -1,6 +1,8 @@
 # Expensomter
 An app which helps users to record their daily expenses ina very easy way. The app is currently covering two platforms (Android and iOS).
 <br>
+Xamarin.Forms with MvvM Binding is used to develop this project.
+<br>
 <br>
 <h3><b>Author</b></h3>
 <ul>
